@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @MaximeCerise
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 About Me
 
-<!---
-MaximeCerise/MaximeCerise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I am an engineering student at **École Centrale de Lyon**, currently pursuing the "Grande École" generalist curriculum.  
+📚 I hold a bachelor's degree in **General Mathematics** and developed a passion for **Computer Science** during my exchange semester at **Keio University** in Japan.  
+
+💻 My current interests include **Data Science** and **Machine Learning**, and I am enthusiastic about applying advanced computational techniques to solve real-world problems.  
+
+🌱 Always learning, exploring, and eager to collaborate on innovative projects in AI and beyond.  
